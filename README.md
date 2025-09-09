@@ -1,4 +1,4 @@
-# 🤖 KSB Product Information Chatbot
+# 🤖 KSB Web-Product Information Chatbot
 
 An **AI-powered multilingual chatbot** designed to provide accurate and context-aware answers about **KSB products and services**.  
 This project integrates **web scraping, NLP preprocessing, embeddings, FAISS vector search, and Ollama LLM** with a **Streamlit-based chatbot interface**.  
@@ -48,4 +48,5 @@ git clone https://github.com/PriyankaThole1905/ksb-product-chatbot.git
 cd ksb-product-chatbot
 
 streamlit run app.py
+
 
