@@ -1,0 +1,255 @@
+The seal faces of the sealing rings are pressed to each other by hydraulic and mechanical forces. One of them is connected with the rotating pump shaft, the other with the pump casing. The flexibility of the spring-loaded seal also compensates for axial or radial movement of the drive shaft to some extent.
+A lubricating film in the sealing clearance of the mechanical seal – between the two seal faces – influences the mechanical seal function considerably. The distance between the two faces, also referred to as the clearance gap width, depends on several factors. For example, the surface quality of the seal faces, the pressure to be sealed off and the sliding velocity. By reducing friction between the seal faces as much as possible, the liquid film between the seal faces prevents wear.
+As a matter of design, a very small amount of the fluid handled always escapes at a mechanical seal: Experts call it leakage. In the case of well-functioning mechanical seals, this leakage of the fluid handled is usually invisible to the naked eye or evaporates shortly before leaving the sealing gap, escaping to atmosphere. If a pump visibly loses some of the fluid handled, this is often a sign of advanced wear or of the seal already being defective.
+Mechanical seals wear out faster in pumps that handle fluids containing solids, such as waste water. The reason: abrasive, grinding substances attack the material. There is a danger of particles entering the sealing clearance and causing premature wear of the seal faces. Over time, the solid particles deposit and block the springs as well as the moveability of the seal unit. This shortens the service life: The mechanical seal will start leaking earlier with large amounts of the fluid handled escaping from inside the pump.
+Schematic of a KSB mechanical seal
+To prevent damage caused by wear, pump operators often supply the mechanical seal area with a clean flushing fluid or barrier fluid. The barrier fluid stops abrasive solid particles from reaching the seal faces. It is also called the supply fluid. Depending on the application, the fluid fulfils different tasks. It may serve to cool, heat or lubricate the mechanical seal, for example, or to prevent deposits.
+Pumps come in different designs. Selecting the right seal type depends on the sliding velocity, the pressure inside the pump and the temperature of the fluid to be transported. Mechanical seals cover a large range of applications and fluids handled. However, some pumps are still fitted with different seal types even today, e.g. with a gland packing. If suitable for the place of installation and if the required service staff know-how can be provided, this seal type is still an option even though it is no longer state of the art.
+Mechanical seals have proven to be well-suited for low pressure and high pressure as well as for different circumferential speeds. The sealing clearance of the mechanical seal is at a right angle to the shaft axis. Major advantages the mechanical seal has got over other seals are its compact design, low friction loss, ease of service and low leakage. Unlike other sealing systems, mechanical seals are also suitable for variable speed pumps – a benefit that is not to be underestimated considering environmental protection, costs and energy efficiency.
+The ideal seal is often closely linked with the application of the corresponding pump. A perfect design and the use of optimum materials for seal, casing and shaft are just as important as many years of experience in the field of pumps. KSB mechanical seals are characterised by their design being optimised for the corresponding KSB pump.
+KSB offers its customers a sealing concept tailored to the geometric and hydraulic properties of the pump. A KSB mechanical seal unites the following core characteristics:
+Most pump failures are caused by a defective mechanical seal. This is why an optimum mechanical seal should be chosen early on, together with the pump. As a full-range supplier, KSB provides the know-how and service required for the entire pump system.
+With mechanical seals for standard applications and API applications, KSB offers its customers highly advanced seals and supply systems optimised for use in KSB pumps. In addition to technical advantages, a mechanical seal from KSB also has economic advantages, for example:
+Mechanical seals are also referred to as axial or hydrodynamic shaft seals. Other types of shaft seals are:
+The mechanical seal is a dynamic seal and belongs to the subcategory of rotational seals. The opposite would be static seals, such as:
+Mechanical seals from KSB for a large range of applications
+With KSB's mechanical seals you increase your pumps' operating reliability and service life.
+Benefits of KSB mechanical seals
+Mechanical seals in a nutshell
+Please contact us. We'll be glad to advise you.
+Top-quality seals increase operating reliability.
+Leakage: Small droplets or vapour escaping
+A mechanical seal? Or better a different seal type?
+Matching the pump and seal to each other
+Mechanical seals are shaft seals
+ProductsProduct CataloguePumpsSpare PartsSpare PartsOverviewValvesSpare Parts KitsMechanical SealsExpress-LineSpare Part Search
+Product CataloguePumpsSpare PartsSpare PartsOverviewValvesSpare Parts KitsMechanical SealsExpress-LineSpare Part Search
+Product Catalogue
+Pumps
+Spare PartsSpare PartsOverviewValvesSpare Parts KitsMechanical SealsExpress-LineSpare Part Search
+OverviewValvesSpare Parts KitsMechanical SealsExpress-LineSpare Part Search
+Overview
+Valves
+Spare Parts Kits
+Mechanical Seals
+Express-Line
+Spare Part Search
+Technical ServicesOverviewConsultancy and AnalysisConsultancy and AnalysisOverviewEnergy Efficiency ConsultingTechnical ConsultancyIdentification of Energy-Saving PotentialSystem Efficiency ServiceCustomised AutomationUpgradingCommissioningCommissioningOverviewInstallation and CommissioningOperationOperationOverviewMaintenance Service for All Rotating EquipmentMaintenance Service for ValvesInspection ServiceMaintenance Inspection ManagementSpare Parts Inventory ManagementPump Monitoring from SpecialistsRepairRepairOverviewPump RepairMotor RepairValve RepairReverse Engineering3D PrintingRotating Equipment ServiceService for Mechanical SealsRental Service and Emergency StockTraining CenterKSB Service CentresKSB Service Partners
+OverviewConsultancy and AnalysisConsultancy and AnalysisOverviewEnergy Efficiency ConsultingTechnical ConsultancyIdentification of Energy-Saving PotentialSystem Efficiency ServiceCustomised AutomationUpgradingCommissioningCommissioningOverviewInstallation and CommissioningOperationOperationOverviewMaintenance Service for All Rotating EquipmentMaintenance Service for ValvesInspection ServiceMaintenance Inspection ManagementSpare Parts Inventory ManagementPump Monitoring from SpecialistsRepairRepairOverviewPump RepairMotor RepairValve RepairReverse Engineering3D PrintingRotating Equipment ServiceService for Mechanical SealsRental Service and Emergency StockTraining CenterKSB Service CentresKSB Service Partners
+Overview
+Consultancy and AnalysisConsultancy and AnalysisOverviewEnergy Efficiency ConsultingTechnical ConsultancyIdentification of Energy-Saving PotentialSystem Efficiency ServiceCustomised AutomationUpgrading
+OverviewEnergy Efficiency ConsultingTechnical ConsultancyIdentification of Energy-Saving PotentialSystem Efficiency ServiceCustomised AutomationUpgrading
+Overview
+Energy Efficiency Consulting
+Technical Consultancy
+Identification of Energy-Saving Potential
+System Efficiency Service
+Customised Automation
+Upgrading
+CommissioningCommissioningOverviewInstallation and Commissioning
+OverviewInstallation and Commissioning
+Overview
+Installation and Commissioning
+OperationOperationOverviewMaintenance Service for All Rotating EquipmentMaintenance Service for ValvesInspection ServiceMaintenance Inspection ManagementSpare Parts Inventory ManagementPump Monitoring from Specialists
+OverviewMaintenance Service for All Rotating EquipmentMaintenance Service for ValvesInspection ServiceMaintenance Inspection ManagementSpare Parts Inventory ManagementPump Monitoring from Specialists
+Overview
+Maintenance Service for All Rotating Equipment
+Maintenance Service for Valves
+Inspection Service
+Maintenance Inspection Management
+Spare Parts Inventory Management
+Pump Monitoring from Specialists
+RepairRepairOverviewPump RepairMotor RepairValve RepairReverse Engineering3D PrintingRotating Equipment ServiceService for Mechanical SealsRental Service and Emergency Stock
+OverviewPump RepairMotor RepairValve RepairReverse Engineering3D PrintingRotating Equipment ServiceService for Mechanical SealsRental Service and Emergency Stock
+Overview
+Pump Repair
+Motor Repair
+Valve Repair
+Reverse Engineering
+3D Printing
+Rotating Equipment Service
+Service for Mechanical Seals
+Rental Service and Emergency Stock
+Training Center
+KSB Service Centres
+KSB Service Partners
+ApplicationsWaste Water TechnologyWaste Water TechnologyOverviewFlood ControlWaste Water TreatmentWaste Water Disposal and TransportControlling and MonitoringWater TechnologyWater TechnologyOverviewWater TreatmentWater ExtractionWater Supply and TransportLeisure parksControlling and MonitoringIndustry TechnologyIndustry TechnologyOverviewMetal ProductionFood and Beverage ProductionPharmaceutical and Cosmetics ProductionMarine IndustryMechanical EngineeringSurface Treatment TechnologyIndustrial Water TreatmentTextile IndustrySnow-Making EquipmentSugar IndustryPulp Production and Paper ProductionAutomotive Industry and SuppliersChemicals ProductionChemicals ProductionOverviewBulk ChemicalsSpeciality ChemicalsConsumer ChemicalsBuilding ServicesBuilding ServicesOverviewHeating and cooling supplyWater supplyDrainageFire fightingEnergy TechnologyEnergy TechnologyOverviewRenewable EnergyFossil-Fuelled Power PlantsNuclear Power PlantsMiningMiningOverviewSlurry TransportProcess Water and DewateringDredgeDredgeOverviewRivers, Lakes, Tailings PondsOcean-going DredgeOil and Gas TechnologyOil and Gas TechnologyOverviewUpstreamMidstreamDownstreamOlefins & AromaticsNatural Gas ProcessingDecarbonizationDecarbonizationOverviewHydrogenCCUSNon-fossil fuelSmart standard: Intelligent standard pumps and valves
+Waste Water TechnologyWaste Water TechnologyOverviewFlood ControlWaste Water TreatmentWaste Water Disposal and TransportControlling and MonitoringWater TechnologyWater TechnologyOverviewWater TreatmentWater ExtractionWater Supply and TransportLeisure parksControlling and MonitoringIndustry TechnologyIndustry TechnologyOverviewMetal ProductionFood and Beverage ProductionPharmaceutical and Cosmetics ProductionMarine IndustryMechanical EngineeringSurface Treatment TechnologyIndustrial Water TreatmentTextile IndustrySnow-Making EquipmentSugar IndustryPulp Production and Paper ProductionAutomotive Industry and SuppliersChemicals ProductionChemicals ProductionOverviewBulk ChemicalsSpeciality ChemicalsConsumer ChemicalsBuilding ServicesBuilding ServicesOverviewHeating and cooling supplyWater supplyDrainageFire fightingEnergy TechnologyEnergy TechnologyOverviewRenewable EnergyFossil-Fuelled Power PlantsNuclear Power PlantsMiningMiningOverviewSlurry TransportProcess Water and DewateringDredgeDredgeOverviewRivers, Lakes, Tailings PondsOcean-going DredgeOil and Gas TechnologyOil and Gas TechnologyOverviewUpstreamMidstreamDownstreamOlefins & AromaticsNatural Gas ProcessingDecarbonizationDecarbonizationOverviewHydrogenCCUSNon-fossil fuelSmart standard: Intelligent standard pumps and valves
+Waste Water TechnologyWaste Water TechnologyOverviewFlood ControlWaste Water TreatmentWaste Water Disposal and TransportControlling and Monitoring
+OverviewFlood ControlWaste Water TreatmentWaste Water Disposal and TransportControlling and Monitoring
+Overview
+Flood Control
+Waste Water Treatment
+Waste Water Disposal and Transport
+Controlling and Monitoring
+Water TechnologyWater TechnologyOverviewWater TreatmentWater ExtractionWater Supply and TransportLeisure parksControlling and Monitoring
+OverviewWater TreatmentWater ExtractionWater Supply and TransportLeisure parksControlling and Monitoring
+Overview
+Water Treatment
+Water Extraction
+Water Supply and Transport
+Leisure parks
+Controlling and Monitoring
+Industry TechnologyIndustry TechnologyOverviewMetal ProductionFood and Beverage ProductionPharmaceutical and Cosmetics ProductionMarine IndustryMechanical EngineeringSurface Treatment TechnologyIndustrial Water TreatmentTextile IndustrySnow-Making EquipmentSugar IndustryPulp Production and Paper ProductionAutomotive Industry and Suppliers
+OverviewMetal ProductionFood and Beverage ProductionPharmaceutical and Cosmetics ProductionMarine IndustryMechanical EngineeringSurface Treatment TechnologyIndustrial Water TreatmentTextile IndustrySnow-Making EquipmentSugar IndustryPulp Production and Paper ProductionAutomotive Industry and Suppliers
+Overview
+Metal Production
+Food and Beverage Production
+Pharmaceutical and Cosmetics Production
+Marine Industry
+Mechanical Engineering
+Surface Treatment Technology
+Industrial Water Treatment
+Textile Industry
+Snow-Making Equipment
+Sugar Industry
+Pulp Production and Paper Production
+Automotive Industry and Suppliers
+Chemicals ProductionChemicals ProductionOverviewBulk ChemicalsSpeciality ChemicalsConsumer Chemicals
+OverviewBulk ChemicalsSpeciality ChemicalsConsumer Chemicals
+Overview
+Bulk Chemicals
+Speciality Chemicals
+Consumer Chemicals
+Building ServicesBuilding ServicesOverviewHeating and cooling supplyWater supplyDrainageFire fighting
+OverviewHeating and cooling supplyWater supplyDrainageFire fighting
+Overview
+Heating and cooling supply
+Water supply
+Drainage
+Fire fighting
+Energy TechnologyEnergy TechnologyOverviewRenewable EnergyFossil-Fuelled Power PlantsNuclear Power Plants
+OverviewRenewable EnergyFossil-Fuelled Power PlantsNuclear Power Plants
+Overview
+Renewable Energy
+Fossil-Fuelled Power Plants
+Nuclear Power Plants
+MiningMiningOverviewSlurry TransportProcess Water and Dewatering
+OverviewSlurry TransportProcess Water and Dewatering
+Overview
+Slurry Transport
+Process Water and Dewatering
+DredgeDredgeOverviewRivers, Lakes, Tailings PondsOcean-going Dredge
+OverviewRivers, Lakes, Tailings PondsOcean-going Dredge
+Overview
+Rivers, Lakes, Tailings Ponds
+Ocean-going Dredge
+Oil and Gas TechnologyOil and Gas TechnologyOverviewUpstreamMidstreamDownstreamOlefins & AromaticsNatural Gas Processing
+OverviewUpstreamMidstreamDownstreamOlefins & AromaticsNatural Gas Processing
+Overview
+Upstream
+Midstream
+Downstream
+Olefins & Aromatics
+Natural Gas Processing
+DecarbonizationDecarbonizationOverviewHydrogenCCUSNon-fossil fuel
+OverviewHydrogenCCUSNon-fossil fuel
+Overview
+Hydrogen
+CCUS
+Non-fossil fuel
+Smart standard: Intelligent standard pumps and valves
+CompanyOverviewCareerPressEvents
+OverviewCareerPressEvents
+Overview
+Career
+Press
+Events
+Software and Know-howOverviewAnalysis ToolsAnalysis ToolsOverviewSonolyzerUMA-SConfiguration ToolsConfiguration ToolsOverviewKSB EasySelectKSBuilding ConsultFind pumps and valves with KSB SelectKSB HELPS PumpSelectionDigital product dataDigital product dataOverviewVDI data recordsRevit data recordsDATANORM data records for building servicesOperational ToolsOperational ToolsOverviewKSB FlowManager AppKSB ServiceToolWeb-App GoToAmarexKnow-howKnow-howOverviewKSB Know How BrochuresMyKSBMyKSBOverviewGetting started with MyKSBConfiguration of KSB products within MyKSBE-commerce connections with KSB
+OverviewAnalysis ToolsAnalysis ToolsOverviewSonolyzerUMA-SConfiguration ToolsConfiguration ToolsOverviewKSB EasySelectKSBuilding ConsultFind pumps and valves with KSB SelectKSB HELPS PumpSelectionDigital product dataDigital product dataOverviewVDI data recordsRevit data recordsDATANORM data records for building servicesOperational ToolsOperational ToolsOverviewKSB FlowManager AppKSB ServiceToolWeb-App GoToAmarexKnow-howKnow-howOverviewKSB Know How BrochuresMyKSBMyKSBOverviewGetting started with MyKSBConfiguration of KSB products within MyKSBE-commerce connections with KSB
+Overview
+Analysis ToolsAnalysis ToolsOverviewSonolyzerUMA-S
+OverviewSonolyzerUMA-S
+Overview
+Sonolyzer
+UMA-S
+Configuration ToolsConfiguration ToolsOverviewKSB EasySelectKSBuilding ConsultFind pumps and valves with KSB SelectKSB HELPS PumpSelection
+OverviewKSB EasySelectKSBuilding ConsultFind pumps and valves with KSB SelectKSB HELPS PumpSelection
+Overview
+KSB EasySelect
+KSBuilding Consult
+Find pumps and valves with KSB Select
+KSB HELPS PumpSelection
+Digital product dataDigital product dataOverviewVDI data recordsRevit data recordsDATANORM data records for building services
+OverviewVDI data recordsRevit data recordsDATANORM data records for building services
+Overview
+VDI data records
+Revit data records
+DATANORM data records for building services
+Operational ToolsOperational ToolsOverviewKSB FlowManager AppKSB ServiceToolWeb-App GoToAmarex
+OverviewKSB FlowManager AppKSB ServiceToolWeb-App GoToAmarex
+Overview
+KSB FlowManager App
+KSB ServiceTool
+Web-App GoToAmarex
+Know-howKnow-howOverviewKSB Know How Brochures
+OverviewKSB Know How Brochures
+Overview
+KSB Know How Brochures
+MyKSBMyKSBOverviewGetting started with MyKSBConfiguration of KSB products within MyKSBE-commerce connections with KSB
+OverviewGetting started with MyKSBConfiguration of KSB products within MyKSBE-commerce connections with KSB
+Overview
+Getting started with MyKSB
+Configuration of KSB products within MyKSB
+E-commerce connections with KSB
+MagazineOverviewOptimisation OpportunitiesInnovation and ProgressNews on ApplicationsTipps and TricksSuccess Stories
+OverviewOptimisation OpportunitiesInnovation and ProgressNews on ApplicationsTipps and TricksSuccess Stories
+Overview
+Optimisation Opportunities
+Innovation and Progress
+News on Applications
+Tipps and Tricks
+Success Stories
+Contact
+Products
+One of the key components of every pump
+Ensure reliable and efficient operation of your system
+One of the key components of every pump
+Ensure reliable and efficient operation of your system
+Extended service lifeof the pump/system means reduced costs for maintenance and spare parts.
+One contact person for the entire system: service, pump, mechanical seal
+Numerous KSB mechanical seals can be used in KSB pumps as well as in pumps from other manufacturers.
+High-quality engineeringat reasonable prices
+Special materialsavailable
+Professionalinstallation and repair service
+Wear parts and repair kits for all mechanical seals from KSB
+Maximumsystem availability and reliability
+Easy to install
+Service-friendly
+Robust design and low wear
+Robust and precise design
+Minimal wear due to the use of resistant high-quality materials
+Long service life of the mechanical seal even under adverse conditions
+Minimum friction losses due to optimisation of the hydraulic forces acting on the seal faces
+Straightforward installation and removal
+Radial shaft seal rings
+Gland packings
+Hydraulic seals
+Diaphragm seals
+Labyrinth seals
+Gaskets
+O-rings
+Metal profile rings
+Product Catalogue
+Spare Parts
+Technical Services
+Shopping Cart
+Product types
+Software and Know-how
+Waste Water Technology
+Water Technology
+Industry Technology
+Building Services
+Energy Technology
+Company
+Events
+Press
+Career
+Social Media
+Newsletter
+Tutorials
+Data Privacy
+Disclaimer
+Company information
+Terms and Conditions
+Compliance (EN)

@@ -1,0 +1,14 @@
+beautifulsoup4
+chatbot
+indicnlp
+langchain
+langchain_community
+langchain_core
+langchain_ollama
+langdetect
+language_detection
+nltk
+numpy
+requests
+sentence_transformers
+streamlit
